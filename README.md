@@ -2,6 +2,7 @@
 
 
 This repo contains the implementation code for the IJCNLP-AACL 2025 Main paper [Fine-Tuning on Noisy Instructions: Effects on Generalization and Performance](https://arxiv.org/abs/2510.03528).
+![alt text](assets/intro.png)
 
 *Note: The implementation code is mainly based on the [open-instruct](https://github.com/allenai/open-instruct) code. Please also cite their work if you use this code.*
 
