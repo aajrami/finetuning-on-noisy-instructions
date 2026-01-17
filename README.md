@@ -211,3 +211,6 @@ Add ```--load_in_4bit``` when evaluating large models.
   year={2025}
 }
 ```
+
+## License
+[MIT License](./LICENSE)
